@@ -17,6 +17,7 @@ function App() {
       <img src={logo} className="App-logo" alt="logo" />
         <p>
           Page has been open for <code>{count}</code> seconds.
+          help
         </p>
       </header>
     </div>
